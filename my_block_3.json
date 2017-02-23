@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": {"model": "pt:my_block"}
+    }
+}
